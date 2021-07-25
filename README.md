@@ -54,7 +54,7 @@ The **layout** object can help to visualize quantities related ti both: a) singl
 *Mean press time per button + longest transistions from left to right hand and vice-versa*
 
 
-# **Conslusion**
+# **Conclusion**
 
 I welcome feedback and new ideas. I hope this project can reveal your typing habbits and even typing changes due to these difficult times.
 
